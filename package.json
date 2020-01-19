@@ -1,0 +1,17 @@
+{
+  "name": "geraremails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Loures",
+  "license": "ISC",
+  "dependencies": {
+    "email-check": "^1.1.0",
+    "email-existence": "^0.1.6",
+    "rxjs": "^6.3.1",
+    "rxjs-compat": "^6.3.1"
+  }
+}
